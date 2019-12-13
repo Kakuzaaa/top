@@ -1,2 +1,3 @@
-first line
-second line
+random text
+third line
+added cool line to the old file
